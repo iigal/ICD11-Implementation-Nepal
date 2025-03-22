@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.1">
+  <diagram name="Page-1" id="roDWjX9aJkaVRZ_2hzy0">
+    <mxGraphModel dx="1804" dy="581" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="1xD9YYq-Vc-2NNbEhWFv-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.429;entryY=0.02;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="1xD9YYq-Vc-2NNbEhWFv-1" target="1xD9YYq-Vc-2NNbEhWFv-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1xD9YYq-Vc-2NNbEhWFv-1" value="Phase 2: Select ICD Champions&#xa;(Master Trainers)" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="160" y="190" width="170" height="102" as="geometry" />
+        </mxCell>
+        <mxCell id="1xD9YYq-Vc-2NNbEhWFv-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1xD9YYq-Vc-2NNbEhWFv-2" target="1xD9YYq-Vc-2NNbEhWFv-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1xD9YYq-Vc-2NNbEhWFv-2" value="Phase 3: Train ICD&#xa;Champions on ICD-11" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="170" y="360" width="175" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="1xD9YYq-Vc-2NNbEhWFv-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1xD9YYq-Vc-2NNbEhWFv-3" target="1xD9YYq-Vc-2NNbEhWFv-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1xD9YYq-Vc-2NNbEhWFv-3" value="Phase 4: Training at&#xa;Medical Colleges of Nepal" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="425" y="360" width="260" height="99" as="geometry" />
+        </mxCell>
+        <mxCell id="1xD9YYq-Vc-2NNbEhWFv-4" value="Phase 5: Training &amp;&#xa;Awareness for Hospital Doctors" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="425" y="190" width="260" height="102" as="geometry" />
+        </mxCell>
+        <mxCell id="1xD9YYq-Vc-2NNbEhWFv-5" value="ICD-11 Implementation on NEPAL" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="220" y="50" width="260" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1xD9YYq-Vc-2NNbEhWFv-20" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-80" y="480" width="840" as="geometry" />
+        </mxCell>
+        <mxCell id="1xD9YYq-Vc-2NNbEhWFv-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;startFill=0;" edge="1" parent="1xD9YYq-Vc-2NNbEhWFv-20" source="1xD9YYq-Vc-2NNbEhWFv-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1xD9YYq-Vc-2NNbEhWFv-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;startFill=0;" edge="1" parent="1xD9YYq-Vc-2NNbEhWFv-20" source="1xD9YYq-Vc-2NNbEhWFv-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="840" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1xD9YYq-Vc-2NNbEhWFv-18" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1xD9YYq-Vc-2NNbEhWFv-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="840" as="sourcePoint" />
+            <mxPoint as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1xD9YYq-Vc-2NNbEhWFv-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1xD9YYq-Vc-2NNbEhWFv-21" target="1xD9YYq-Vc-2NNbEhWFv-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1xD9YYq-Vc-2NNbEhWFv-21" value="Phase 1: Prepare Governmental Policies on ICD-11 Usage&#xa;(Base Setup)" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="190" width="170" height="102" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
